@@ -3,7 +3,7 @@
 I'm a backend developer from Argentina specializing in Java. My passion for technology and application development has driven me to continuously expand my knowledge and skills in this field.
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/https://www.linkedin.com/in/rtoresani/) 
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/rtoresani/) 
 
 ## 💻 Tech Stack
 
